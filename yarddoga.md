@@ -1,7 +1,7 @@
-name: Yaren Dogan
-netid: yarddoga
-github: YarDog4
-major: Computer Science
+name: Yaren Dogan/
+netid: yarddoga/
+github: YarDog4/
+major: Computer Science/
 # BackGround
 I was born in Istanbul, Turkey, and I swam competitively for 12 years
 # Interests
