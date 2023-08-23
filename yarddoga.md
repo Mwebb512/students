@@ -1,4 +1,4 @@
-name: Yaren Dogan, 
+name: Yaren Dogan
 netid: yarddoga
 github: YarDog4
 major: Computer Science
