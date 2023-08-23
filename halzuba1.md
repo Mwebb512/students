@@ -3,7 +3,7 @@
 
 - netid: halzuba1
 
-- Githib username: Halzuba1
+- Github username: Halzuba1
 
 - Major: Computer Science
 
