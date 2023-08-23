@@ -39,3 +39,4 @@ I feel deeply fascinated by many fields related to Computer Science. However, I'
 9. Linux
 10. SQL
 11. HSPICE
+12. Git
