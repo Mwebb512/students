@@ -1,6 +1,6 @@
 ## Bryce Richards
 Github Username: brycerichards13\
-Major: Computer Science
+Major: Computer Science\
 I grew up in Memphis Tennessee, attended high school at Christian Brothers High School, and I am currently a junior at UTK.
 
 Languages/Tools/Frameworks I'm Familiar With
