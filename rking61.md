@@ -1,7 +1,7 @@
-Name: Robert King
-Netid: rking61
-Git Username: RobKing2003
-Major: Computer Science
+#Name: Robert King
+##Netid: rking61
+##Git Username: RobKing2003
+##Major: Computer Science
 
 I grew up in Memphis Tennessee until I moved to North Carolina, where I now live.
 
