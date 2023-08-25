@@ -12,4 +12,4 @@ I am originally from Iraq, and I moved to the United States when I was 11 years 
 and hiking. And I am familiar with C/C++, python, java, and git.
 
 ### Links:
-1. https://github.com/Halzuba1/
+1. Github: [Halzuba1](https://github.com/Halzuba1/)
