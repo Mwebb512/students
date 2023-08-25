@@ -8,8 +8,8 @@ Major: Computer Science (Non-Degree)
 # Interests
 
 1. Ben
-2. Alec
-4. Mac
+1. Alec
+1. Mac
 
 * Ben
 * Alec
