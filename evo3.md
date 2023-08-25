@@ -22,6 +22,7 @@ I am from Maryville, TN, but I also came from a Vietnamese background. I was unc
 My LinkedIn still needs updates, but here is the link: www.linkedin.com/in/emilyvo715
 
 ## Frameworks/Languages
+
 1. C++/C#
 3. Java
 4. CSS/HTML/Javascript
