@@ -24,12 +24,12 @@ program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, 
 1. C++  
 - Used for 3 years throughout Pellissippi and UTK  
 2. C#  
-		- I coded a Pokemon Game in **Unity** for my final project in CS302  
-	3. C  
-		- For half a semester at Pellissippi we coded in C, but it has been several years   
-	4. HTML  
-		- I created a website in HTML for an Engineering Fundementals class  
-	5. Assembly  
+- I worked on a Pokemon Game in **Unity** for my final project in CS302
+3. C  
+- For half a semester at Pellissippi we coded in C, but it has been several year  
+4. HTML  
+- I created a website in HTML for an Engineering Fundementals class  
+1. Assembly  
 
 **Others:**  
 -Here's a [Music Box](https://www.tinkercad.com/things/agFEnS1d7ws) I made with an Arduino
