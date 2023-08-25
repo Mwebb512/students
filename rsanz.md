@@ -13,23 +13,23 @@
 Hello! My name is Reagan Sanz. I am currently a Junior, and this is my second semester in UTK's computer science
 program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, and drinking coffee. 
 
-**My Favorites**:
-	- Favorite Movie: Guardians of the Galaxy  
-	- Favorite Shows: Moonknight, Good Omens, the Mandalorian  
-	- Favorite Book: Cemetery Boys  
+**My Favorites**:  
+	* Favorite Movie: Guardians of the Galaxy  
+	* Favorite Shows: Moonknight, Good Omens, the Mandalorian  
+	* Favorite Book: Cemetery Boys  
 
 
 ## Engineering/Computer Science Experience
-**Programming (in Order of Experience)**
+**Programming (in Order of Experience)**  
 	1. C++  
 		- Used for 3 years throughout Pellissippi and UTK  
-	1. C#  
+	2. C#  
 		- I coded a Pokemon Game in **Unity** for my final project in CS302  
-	1. C  
+	3. C  
 		- For half a semester at Pellissippi we coded in C, but it has been several years   
-	1. HTML  
+	4. HTML  
 		- I created a website in HTML for an Engineering Fundementals class  
-	1. Assembly  
+	5. Assembly  
 
 **Others:**  
 -Here's a [Music Box](https://www.tinkercad.com/things/agFEnS1d7ws) I made with an Arduino
