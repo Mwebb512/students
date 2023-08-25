@@ -11,7 +11,7 @@
 **Major**: Computer Science, Studio Art (Minor)
 
 Hello! My name is Reagan Sanz. I am currently a Junior, and this is my second semester in UTK's computer science
-program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, and drinking coffee. 
+program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, and drinking coffee.
 
 **My Favorites**:  
 * Favorite Movie: Guardians of the Galaxy  
@@ -26,13 +26,12 @@ program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, 
 2. C#  
 	- I worked on a Pokemon Game in **Unity** for my final project in CS302
 3. C  
-	- For half a semester at Pellissippi we coded in C, but it has been several year  
+	- For half a semester at Pellissippi we coded in C, but it has been several years  
 4. HTML  
 	- I created a website in HTML for an Engineering Fundementals class  
 5. Assembly  
 
 **Others:**  
 -Here's a [Music Box](https://www.tinkercad.com/things/agFEnS1d7ws) I made with an Arduino
-
 
 
