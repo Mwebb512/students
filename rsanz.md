@@ -14,16 +14,16 @@ Hello! My name is Reagan Sanz. I am currently a Junior, and this is my second se
 program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, and drinking coffee. 
 
 **My Favorites**:  
-	* Favorite Movie: Guardians of the Galaxy  
-	* Favorite Shows: Moonknight, Good Omens, the Mandalorian  
-	* Favorite Book: Cemetery Boys  
+* Favorite Movie: Guardians of the Galaxy  
+* Favorite Shows: Moonknight, Good Omens, the Mandalorian  
+* Favorite Book: Cemetery Boys  
 
 
 ## Engineering/Computer Science Experience
 **Programming (in Order of Experience)**  
-	1. C++  
-		- Used for 3 years throughout Pellissippi and UTK  
-	2. C#  
+1. C++  
+- Used for 3 years throughout Pellissippi and UTK  
+2. C#  
 		- I coded a Pokemon Game in **Unity** for my final project in CS302  
 	3. C  
 		- For half a semester at Pellissippi we coded in C, but it has been several years   
