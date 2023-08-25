@@ -18,9 +18,7 @@ Some fun fact about myslef, I was borned in China, I got my citizenship earlier 
 
 
 # Link to External Sites
-linkedin:
-https://www.linkedin.com/in/haoran-chen-a86a49210/
-Github: 
-https://github.com/Mad-cel
+[linkedin](https://www.linkedin.com/in/haoran-chen-a86a49210/)
+[GitHub](https://github.com/Mad-cel)
 
 
