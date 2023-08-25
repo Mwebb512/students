@@ -15,5 +15,6 @@ I was homeschooled through middle and high school and played soccer as a kid.
 * Python
 * Github
 * Machine Learning
+* Unity
 
 Here's a [project I worked on](https://github.com/aeasy370/Twitter-Stock-Linear-Regression)
