@@ -6,3 +6,11 @@ Major: Computer Science (Non-Degree)
 # Background
 
 # Interests
+
+1. Ben
+2. Alec
+4. Mac
+
+* Ben
+* Alec
+* Mac
