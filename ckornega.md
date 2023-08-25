@@ -8,6 +8,12 @@ Completed all prereq courses for this class and currently enrolled in COSC360. P
 \
 \
 ## Interests
-- Embedded systems / IOT / firmware / device drivers / robotics / ethical hacking / security\
+- Embedded systems
+- IOT
+- firmware
+- device drivers
+- robotics
+- ethical hacking
+-  security
 Langs/Tools/FWs: C++, C, Java, Rust, Python, make, CSS, HTML5, RISC-V, Ghidra, TUI, AWS, SQLinjection, Fuzzing, etc.\
 Ghidra: https://ghidra-sre.org/
