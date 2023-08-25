@@ -1,9 +1,9 @@
 # Benjamin Belandres
 
--Nickname: Ben
--Netid:    bbelandr
--Github:   bbelandr
--Major:    Computer Science
+- Nickname: Ben
+- Netid:    bbelandr
+- Github:   bbelandr
+- Major:    Computer Science
 
 ## Languages and other tools I've used in the past
 
