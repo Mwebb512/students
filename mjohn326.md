@@ -1,6 +1,9 @@
 Name: Makenzie Johnson
+
 NetID: mjohn326
+
 Github Username: Kenzie218
+
 Major: Computer Science
 
 
