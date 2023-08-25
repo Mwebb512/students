@@ -8,15 +8,20 @@
 
 ## About Me:
 
-**Major**: Computer Science, Studio Art (Minor)
+**Major**: Computer Science, Art (Minor)  
 
 Hello! My name is Reagan Sanz. I am currently a Junior, and this is my second semester in UTK's computer science
-program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, and drinking coffee.
+program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, and drinking coffee.  
+
+I'm hoping to pursue hobbies/careers that combine both my programming/engineering skills and 
+my artistic abilities. Whether it's a pencil on paper or code on a screen, I simply love to **create**.  
+
 
 **My Favorites**:  
 * Favorite Movie: Guardians of the Galaxy  
 * Favorite Shows: Moonknight, Good Omens, the Mandalorian  
 * Favorite Book: Cemetery Boys  
+* Favorite Song: "This Side of Paradise" by Coyote Theory  
 
 
 ## Engineering/Computer Science Experience
@@ -32,6 +37,6 @@ program (Pellissiippi Transfer). I enjoy watching marvel movies, reading books, 
 5. Assembly  
 
 **Others:**  
--Here's a [Music Box](https://www.tinkercad.com/things/agFEnS1d7ws) I made with an Arduino
-
-
+- Here's a [Music Box](https://www.tinkercad.com/things/agFEnS1d7ws) I made with an Arduino
+- I want to create a video game similar to "Papa's Freezeria", but it's Barista themed (using my 3 
+years of Starbucks experience).
