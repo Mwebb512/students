@@ -11,4 +11,4 @@ My interests include hiking, baking, and painting.
 
 I know C++, Java, Python, and SQL
 
-https://catalog.utk.edu/preview_program.php?catoid=34&poid=16680#tt7550
+[CS Program Catalog](https://catalog.utk.edu/preview_program.php?catoid=34&poid=16680#tt7550)
