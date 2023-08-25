@@ -1,5 +1,5 @@
 # Robert King
-
+## Information
 - **Netid:** rking61
 - **Git Username:** RobKing2003
 - **Major:** Computer Science
