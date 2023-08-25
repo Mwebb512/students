@@ -1,10 +1,11 @@
 ## Technical Info
 ---
 
-### Name: Peyton Davis
-### NetID: pdavis43
-### GitHub: peytonad
-### Major: Mechanical Engineering
+#### Name: Peyton Davis
+#### NetID: pdavis43
+#### GitHub: peytonad
+#### Major: Mechanical Engineering
+
 
 ## About Me
 ---
@@ -14,6 +15,7 @@ Some of my interests outside of track include rock climbing, disc golf, building
 
 Here is a link to my track page:
 - [UTK Track and Field Roster](https://utsports.com/sports/track-and-field/roster/peyton-davis/18054)
+
 This is a link to the startup company I interned for and currently work for part-time!
 - [Edgevanta](https://www.edgevanta.io/)
 
