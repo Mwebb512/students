@@ -1,4 +1,4 @@
-# **Name:** Robert King
+# Robert King
 
 - **Netid:** rking61
 - **Git Username:** RobKing2003
