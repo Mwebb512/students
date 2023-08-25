@@ -9,4 +9,6 @@ I am a senior in Computer Science, I transfered from Columbia State Community Co
 
 My interests include hiking, baking, and painting.
 
+I know C++, Java, Python, and SQL
+
 https://catalog.utk.edu/preview_program.php?catoid=34&poid=16680#tt7550
