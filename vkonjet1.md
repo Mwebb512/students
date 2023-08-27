@@ -9,8 +9,7 @@ I am Vineeth Konjeti (Vinni)
 I am a junior at UTK majoring in CS with a minor in DS
 
 ## Interest
-I like to rock climb.
-https://www.google.com/search?channel=fen&client=firefox-b-1-d&q=rock+climbing
+I like to [rock climb](https://www.google.com/search?channel=fen&client=firefox-b-1-d&q=rock+climbing).
 
 ## Tools
 * C++
