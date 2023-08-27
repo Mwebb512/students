@@ -26,7 +26,7 @@
 I had a software engineering internship with Clayton Homes this summer. Completed a 10-week-long project that is helping the company. I moved legacy code from one domain to another to promote domain-driven design (which was not as simple as just copy-pasting; a lot of reworking had to happen). Then I added backend capability for an admin tool in .NET, and finally built out the front end for the admin tool in React.
 
 ## The Person
-I enjoy roller skating, acting, and politics. I'm in UTK's delegation of TISL.
+I enjoy roller skating, acting, and politics. I'm in UTK's delegation of [TISL](https://www.tislonline.org).
 
-My favorite piece of media (not the best, but my favorite) is Steven Universe.
+My favorite piece of media (not the best, but my favorite) is [Steven Universe](https://steven-universe.fandom.com/wiki/Steven_Universe_Wiki).
 
