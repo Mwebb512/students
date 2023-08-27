@@ -11,7 +11,7 @@ I am a sophomore in computer science at UTK, and this summer I interned with Kro
 I enjoy programming, watching movies, and hanging out with friends. Sometime in the future, I will most likely look into entrepreneurship. 
 
 ##Interests and Hobbies
-I like playing Valorant, and I like watching movies and shows, one of which is an anime called Death Note: https://en.wikipedia.org/wiki/Death_Note
+I like playing Valorant, and I like watching movies and shows, one of which is an anime called [Death Note](https://en.wikipedia.org/wiki/Death_Note)
 
 ##Languages and frameworks
 C++, Git, Python, HTML, CSS
