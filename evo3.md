@@ -19,7 +19,7 @@ I am from Maryville, TN, but I also came from a Vietnamese background. I was unc
 
 ## Link
 
-My LinkedIn still needs updates, but here is the link: www.linkedin.com/in/emilyvo715
+[LinkedIn] (https://www.linkedin.com/in/emilyvo715)
 
 ## Frameworks/Languages
 
