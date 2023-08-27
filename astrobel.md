@@ -1,6 +1,8 @@
 #Austin Strobel
 
-* netID: astrobel * Github: aaStrobel * Majors = Computer Science & Supply Chain Management
+- netID: astrobel 
+- Github: aaStrobel 
+- Majors = Computer Science & Supply Chain Management
 
 ##Background
 I am a sophomore in computer science at UTK, and this summer I interned with Kroger Technology and did research for the NSF. 
