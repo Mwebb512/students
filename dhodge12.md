@@ -1,6 +1,6 @@
 # Assigment 1
 
-##Basic Information
+## Basic Information
 
 	Daniel Brycen Hodges (Brycen Perferred) 
 	Netid: dhodge12
@@ -8,12 +8,14 @@
 	Major: Computer Science
 
 
-##About Me
+## About Me
 
-	Background: I was born in Knoxville Tennessee and I have lived here my entire life and I have been 
+Background: 
+I was born in Knoxville Tennessee and I have lived here my entire life and I have been 
 programming for a little over two years now.
 
-	Interests: I love watching football and participating in any lake activities such as cliff jumping, wake surfing, and riding jet skis with my friends and family.
+Interests: 
+I love watching football and participating in any lake activities such as cliff jumping, wake surfing, and riding jet skis with my friends and family.
 
 
 # Fun Facts
@@ -23,7 +25,7 @@ programming for a little over two years now.
 	- I enjoy working on vehicles
 
 
-##HTML Page/Languages
+## HTML Page/Languages
 
 	- C++
 	- RISC-V assembly 
