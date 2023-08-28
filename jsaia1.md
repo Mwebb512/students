@@ -9,7 +9,7 @@ My name is John Paul Saia and I am from Jackson TN. I am studying computer scien
 # Intrests and hobbies
 I love to play soccer, watch movies and travel. I also just started learning guitar. 
 
-# Skilla
+# Skills
 
 C++
 HTML
