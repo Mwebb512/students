@@ -1,6 +1,6 @@
 Name: Brien Tolson  
 Github ID: btolson1  
-NET_ID: btolson1
+NET_ID: btolson1  
 Major: Computer Science  
 # About Me
 I am a Junior in Computer Science this year. I was born and raised in Knoxville, so being at UTK is very comfortable for me.
