@@ -6,7 +6,16 @@
 
 # Ordered List
 
-eight, five, four, nine, one, seven, six, ten, three, two 
+- eight
+- five
+- four
+- nine
+- one
+- seven
+- six
+- ten
+- three
+- two 
 
 # Interests
 
