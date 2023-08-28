@@ -12,11 +12,14 @@ I've been interested in computer science for my entire life.
 I took classes and extracirriculars related to coding and digital media whenever possible in elementary school and middle school.
 In high school I took AP Computer Science, three electives with Python coding, and a year-long computer science independent study.
 When it was time to pick a major, I knew almost right away that I wanted to go into computer science.
+
 I'm especially excited for this class because software engineering is what I really want to do with my degree. :)
 
 ## Interests
 My main interest is video games and video game development; it's the reason I'm studying computer science. I love all aspects of game development, from coding to game design to art and music.
+
 Outside of computers, I like writing, music, movies, and YouTube. I'm also a theme park enthusiast.
+
 Here's a link to [my games page](https://stev51.itch.io/) with the three tiny games I've published so far. It's unimpressive but I'm still proud. :)
 
 ## Experience
