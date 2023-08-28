@@ -1,4 +1,4 @@
-#Assignment 1: Pull Request
+# Assignment 1: Pull Request
 
 
 - Name: Dorothy Wang
@@ -14,7 +14,7 @@ My hobbies include rockclimbing, martial arts, soccer and reading
 Here's a link to the school that I learned martial arts from: https://hendersonvillemartialarts.com/
 
 
-###Languages
+### Languages
 - C++
 - Java
 - Python (a little)
