@@ -10,12 +10,9 @@
 
 ## About Me
 
-Background: 
-I was born in Knoxville Tennessee and I have lived here my entire life and I have been 
-programming for a little over two years now.
+Background: I was born in Knoxville Tennessee and I have lived here my entire life and I have been programming for a little over two years now.
 
-Interests: 
-I love watching football and participating in any lake activities such as cliff jumping, wake surfing, and riding jet skis with my friends and family.
+Interests: I love watching football and participating in any lake activities such as cliff jumping, wake surfing, and riding jet skis with my friends and family.
 
 
 # Fun Facts
