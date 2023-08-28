@@ -1,11 +1,7 @@
 # Makenzie Johnson
-
 ## NetID: mjohn326
-
 ## Github Username: Kenzie218
-
 ## Major: Computer Science
-
 
 ### Languages:
 1. C++ - most comfortable
