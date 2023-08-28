@@ -1,7 +1,8 @@
 # Steven Dao
-NETID: sdao
-GitHub: nevetsosu
-Computer Science
+
+- NETID: sdao
+- GitHub: nevetsosu
+- Computer Science
 
 # Ordered List
 
