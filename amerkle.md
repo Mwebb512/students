@@ -19,10 +19,11 @@ I have a wide array of interests, and I try to balance them so as to round out m
 * Solving practical problems
 
 # Languages
-Java (introductory semester, COSC-101)
-Python (COSC-111 and COSC-370)
-CPP (COSC-102, COSC-202, COSC-302, COSC-311)
-CSS (COSC-302 project)
-Assembly (COSC-230)
+* Java (introductory semester, COSC-101)
+* Python (COSC-111 and COSC-370)
+* CPP (COSC-102, COSC-202, COSC-302, COSC-311)
+* CSS (COSC-302 project)
+* Assembly (COSC-230)
+
 I also speak English, and some Japanese. I don't know if that matters to y'all, but I think it's kinda neat.
 
