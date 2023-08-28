@@ -17,9 +17,12 @@ During my free time I enjoy:
 Here is the [NBA Team](https://www.nba.com/celtics) that I enjoy watching the most!  
 
 # Coding Languages
-I have a general understanding of the following languages:
+I have a general understanding of the following languages and Frameworks:
 1. C++
 2. Java
 3. Python
 4. C#
+5. Unity
+6. Power Queary
+7. Git
 I tend to use VS Code as my IDE and Text Editor
