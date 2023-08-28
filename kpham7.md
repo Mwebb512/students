@@ -19,4 +19,5 @@
     6. CSS
 
 ## Link to my personal website I'm building
-    [Khoality News](https://www.khoalitynews.net/)
+
+[Khoality News](https://www.khoalitynews.net/)
