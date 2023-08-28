@@ -1,7 +1,7 @@
-Name: Brien Tolson
-GH_ID: btolson1
+Name: Brien Tolson  
+Github ID: btolson1  
 NET_ID: btolson1
-Major: Computer Science
+Major: Computer Science  
 # About Me
 I am a Junior in Computer Science this year. I was born and raised in Knoxville, so being at UTK is very comfortable for me.
 I currently work as an intern at TVA in their Power Custmer Contracts team.
