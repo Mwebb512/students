@@ -28,4 +28,4 @@ I have a wide array of interests, and I try to balance them so as to round out m
 I also speak English, and some Japanese. I don't know if that matters to y'all, but I think it's kinda neat.
 
 # Online Resume
-https://merklealec.wixsite.com/utkamerkle
+(https://merklealec.wixsite.com/utkamerkle)
